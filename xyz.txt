@@ -1,1 +1,1 @@
-text in xyz.txt
+text in newB48xyz.txt
